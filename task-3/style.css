@@ -1,0 +1,58 @@
+#navbar{
+    text-align: center;
+    height: 60px;
+    background-color:lightgray;
+    
+    
+
+
+
+
+    
+}
+a{
+     margin-right: 200px;
+    text-decoration: none;
+    font-size: larger;
+    color: black; 
+    
+
+}
+header{
+    text-align: center; 
+    background-color: darkgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    
+    font-size: large;
+    font-style: oblique;
+    
+    text-align: center;
+    
+
+
+}
+body{
+    
+    background-size: cover;
+    background-color: gray;
+
+}
+button{
+    margin: auto;
+    padding: 1px;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 20PX;
+    display: flex;
+    padding: 0 5px;
+    transition: 0.3s all ease;
+    background-color: gray;
+    
+    
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
