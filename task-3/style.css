@@ -1,7 +1,7 @@
 #navbar{
     text-align: center;
     height: 60px;
-    background-color:lightgray;
+    background-color:light pink;
     
     
     
@@ -12,16 +12,16 @@
     
 }
 a{
-     margin-right: 200px;
+     margin-right: 340px;
     text-decoration: none;
     font-size: larger;
     color: black; 
-    
+    text-align: center;
 
 }
 header{
     text-align: center; 
-    background-color: darkgray;
+    background-color: dark pink;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 p{
@@ -37,7 +37,7 @@ p{
 body{
     
     background-size: cover;
-    background-color: gray;
+    
     background-image: url(/top-view-desk-concept-with-copy-space_23-2148604919.jpg);
     background-size: cover;
     
