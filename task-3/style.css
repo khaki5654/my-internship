@@ -4,6 +4,7 @@
     background-color:lightgray;
     
     
+    
 
 
 
@@ -37,8 +38,13 @@ body{
     
     background-size: cover;
     background-color: gray;
+    background-image: url(/top-view-desk-concept-with-copy-space_23-2148604919.jpg);
+    background-size: cover;
+    
 
 }
+
+
 button{
     margin: auto;
     padding: 1px;
@@ -48,11 +54,14 @@ button{
     display: flex;
     padding: 0 5px;
     transition: 0.3s all ease;
-    background-color: gray;
+    background-color:papayawhip;
     
     
     
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
+    margin-top: 0%;
+    padding: 2%;
+
 }
